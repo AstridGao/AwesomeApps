@@ -8,12 +8,14 @@
 
 项目收录的软件大部分都是免费开源的，即使有部分软件不是开源的，但也是可以免费使用的。
 
+如果你电脑里也有一些让人直呼卧槽的软件，希望你可以通过Pull Request或者提交issue分享出来。
+
 ## 目录
 
 * [宝藏软件](#宝藏软件)
   * [听歌软件](#听歌软件)
   * [阅读软件](#阅读软件)
-  * 
+  * [B站视频下载工具](#B站视频下载工具)
 
 ## 宝藏软件
 
@@ -103,5 +105,30 @@ Koodo Reader是一款功能强大的电子书阅读器，旨在提供简单易�
 
 项目地址：https://github.com/koodo-reader/koodo-reader
 
+### B站视频下载工具
 
+#### 一、唧唧Down
 
+这是一个用于下载 bilibili 视频的PC应用程序, 它能够下载 99% bilibili 视频(不支持番剧类型), 并且它将会终身免费提供使用。
+
+网址：http://client.jijidown.com/
+
+#### 二、BiliTools
+
+跨平台哔哩哔哩工具箱，支持视频、音乐、番剧、课程下载。
+
+项目地址：https://github.com/btjawa/BiliTools
+
+#### 三、哔哩下载姬
+
+哔哩下载姬（DownKyi）是一个简单易用的哔哩哔哩视频下载工具，具有简洁的界面，流畅的操作逻辑。哔哩下载姬可以下载几乎所有的B站视频，并输出mp4格式的文件；采用Aria下载器多线程下载，采用FFmpeg对视频进行混流、提取音视频等操作。
+
+项目地址：https://github.com/leiurayer/downkyi
+
+#### 四、BILIBILIAS
+
+哔哩哔哩解析工具，一个辅助缓存下载B站视频番剧的APP，帮助你快速便捷的缓存B站视频和番剧。
+
+网址：https://api.misakamoe.com/app/
+
+项目地址：https://github.com/1250422131/bilibilias
