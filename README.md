@@ -17,6 +17,7 @@
   * [阅读软件](#阅读软件)
   * [追番软件](#追番软件)
   * [B站视频下载工具](#B站视频下载工具)
+* [工作学习](#工作学习)
 
 ## 休闲娱乐
 
@@ -167,3 +168,27 @@ omofun官方网站简称O站，相信喜欢看动漫的小伙伴应该不会陌�
 网址：https://api.misakamoe.com/app/
 
 项目地址：https://github.com/1250422131/bilibilias
+
+## 工作学习
+
+### PDF工具
+
+#### 一、PDF24
+
+免费且易于使用的在线PDF工具。
+
+网址：https://tools.pdf24.org/zh/
+
+#### 二、pdfcandy
+
+处理 PDF 文件所需的所有工具：编辑、转换、合并、压缩、签名等。
+
+网址：https://pdfcandy.com/cn/
+
+#### 三、Stirling-PDF
+
+本地托管的 Web 应用程序，允许您对 PDF 文件执行各种操作。
+
+网址：https://www.stirlingpdf.com/
+
+项目地址：https://github.com/Stirling-Tools/Stirling-PDF
