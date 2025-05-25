@@ -12,12 +12,13 @@
 
 ## 目录
 
-* [宝藏软件](#宝藏软件)
+* [休闲娱乐](#休闲娱乐)
   * [听歌软件](#听歌软件)
   * [阅读软件](#阅读软件)
+  * [追番软件](#追番软件)
   * [B站视频下载工具](#B站视频下载工具)
 
-## 宝藏软件
+## 休闲娱乐
 
 ### 听歌软件
 
@@ -104,6 +105,40 @@ Koodo Reader是一款功能强大的电子书阅读器，旨在提供简单易�
 网址：https://www.koodoreader.com
 
 项目地址：https://github.com/koodo-reader/koodo-reader
+
+### 追番软件
+
+#### 一、AniCh
+
+一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。追番看番必备软件。
+
+网址：https://anich.emmmm.eu.org/
+
+项目地址：https://github.com/Sle2p/AniCh
+
+#### 二、Miru
+
+免费，开源的 支持视频，漫画，小说扩展源的多功能应用，支持 Android，Windows，Web。
+
+网址：https://miru.js.org/
+
+项目地址：https://github.com/miru-project/miru-app
+
+#### 三、Mi动漫
+
+一款美观的动漫软件，免费观看，高清画质，资源丰富。支持多种主题颜色，收藏番剧更新提醒，自动保存浏览历史,播放记录,视频缓存等，更多功能等你探索！
+
+网址：https://midm.app/
+
+项目地址：https://github.com/Carole007/midm-release
+
+#### 四、omofun
+
+omofun官方网站简称O站，相信喜欢看动漫的小伙伴应该不会陌生。
+
+网址：https://www.omofuna.com/
+
+软件下载地址：https://www.omoo.app/
 
 ### B站视频下载工具
 
