@@ -20,6 +20,9 @@
 * [工作学习](#工作学习)
   * [PDF工具](#PDF工具)
   * [思维导图](#思维导图)
+  * [截屏软件](#截屏软件)
+  * [文件解压缩工具](#文件解压缩工具)
+  * [下载工具](#下载工具)
 
 ## 休闲娱乐
 
@@ -219,3 +222,62 @@ omofun官方网站简称O站，相信喜欢看动漫的小伙伴应该不会陌�
 
 项目地址：https://github.com/wanglin2/mind-map
 
+### 截屏软件
+
+#### 一、Snipaste
+
+Snipaste 是一个简单但强大的截图工具，也可以让你将截图贴回到屏幕上！下载并打开 Snipaste，按下 `F1` 来开始截图，再按 `F3`，截图就在桌面置顶显示了。就这么简单！
+
+网址：https://zh.snipaste.com/
+
+#### 二、PixPin
+
+屏幕截图，录制屏幕，长截图，文字识别，贴图，以及更多功能。
+
+网址：https://pixpin.cn/
+
+### 文件解压缩工具
+
+#### 一、7-Zip
+
+7-Zip是一款拥有极高压缩比的开源压缩软件。
+
+网址：https://www.7-zip.org/
+
+网址（中文）：https://sparanoid.com/lab/7z/
+
+#### 二、Nanazip
+
+NanaZip 是一个开源的压缩文档管理器，旨在提供现代化的 Windows 体验，基于著名的开源文件存档器7-Zip开发。
+
+网址：https://nanazip.cn/
+
+### 下载工具
+
+#### 一、AB Download Manager
+
+一款高颜值、开源、免费的下载软件。
+
+网址：https://abdownloadmanager.com/
+
+开源地址：https://github.com/amir1376/ab-download-manager
+
+#### 二、Free Download Manager
+
+它是一款功能强大的现代下载加速器和组织器，适用于Windows、macOS、Android和Linux系统。
+
+网址：https://www.freedownloadmanager.org/
+
+#### 三、Motrix
+
+一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链接等资源。
+
+网址：https://motrix.app/
+
+开源地址：https://github.com/agalwood/Motrix
+
+#### 四、XDown
+
+专业的文件下载与分享工具。
+
+网址：https://www.xdown.org/
