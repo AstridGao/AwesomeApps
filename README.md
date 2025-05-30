@@ -23,6 +23,7 @@
   * [截屏软件](#截屏软件)
   * [文件解压缩工具](#文件解压缩工具)
   * [下载工具](#下载工具)
+  * [文件管理器](#文件管理器)
 
 ## 休闲娱乐
 
@@ -281,3 +282,29 @@ NanaZip 是一个开源的压缩文档管理器，旨在提供现代化的 Windo
 专业的文件下载与分享工具。
 
 网址：https://www.xdown.org/
+
+### 文件管理器
+
+#### 一、files
+
+探索美观的窗口设计，高效管理所有文件，在多文件夹标签页中流转。还有更多功能待您体验。
+
+网址：https://files.community/
+
+开源地址：https://github.com/files-community/files/
+
+#### 二、Spacedrive
+
+Spacedrive 是一个开源的跨平台文件浏览器，由一个用 Rust 编写的虚拟分布式文件系统提供支持。
+
+网址：https://www.spacedrive.com/
+
+开源地址：https://github.com/spacedriveapp/spacedrive
+
+#### 三、xplorer
+
+跨平台文件资源管理器
+
+网址：https://xplorer.space/
+
+开源地址：https://github.com/kimlimjustin/xplorer
