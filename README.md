@@ -24,6 +24,7 @@
   * [文件解压缩工具](#文件解压缩工具)
   * [下载工具](#下载工具)
   * [文件管理器](#文件管理器)
+  * [传输工具](#传输工具)
 
 ## 休闲娱乐
 
@@ -328,3 +329,22 @@ Spacedrive 是一个开源的跨平台文件浏览器，由一个用 Rust 编写
 开源地址：https://github.com/kimlimjustin/xplorer
 
 [返回目录](#目录)
+
+### 传输工具
+
+#### 一、Flix
+
+新一代局域网传输工具，免流量，不限速，全系统支持。像聊天一样传文件。
+
+网址：https://flix.center/
+
+#### 二、localsend
+
+将文件分享到附近的设备。免费、开源、跨平台。
+
+网址：https://localsend.org/zh-CN
+
+开源地址：https://github.com/localsend/localsend
+
+
+
