@@ -346,5 +346,11 @@ Spacedrive 是一个开源的跨平台文件浏览器，由一个用 Rust 编写
 
 开源地址：https://github.com/localsend/localsend
 
+### 文件搜索工具
 
+#### 一、Everything
+
+基于名称快速定位文件和文件夹。
+
+网址：https://www.voidtools.com/zh-cn/
 
